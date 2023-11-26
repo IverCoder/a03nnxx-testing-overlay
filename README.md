@@ -1,1 +1,1 @@
--
+Experimental GSI overlay for the Samsung Galaxy A03. Install via the Magisk app or a custom recovery. Please report your experience [on our Telegram channel](https://t.me/a035f).
